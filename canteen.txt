@@ -1,0 +1,5 @@
+Zijing 1 La Zao/Zhong/Wan A B C D E 6 5 4 3 1
+Taoli 2 Chuan Zao/Zhong/Wan A F I J K 6 5 4 3 3
+Yushu 3 La Zao/Zhong/Wan A B L M N 6 5 5 7 9
+Dingxiang 4 Xiang Zao/Zhong/Wan D O P Q R 3 6 8 8 6
+Zhilan 5 Yu Zao/Zhong/Wan B C E X Y 5 4 2 10 9

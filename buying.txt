@@ -1,0 +1,16 @@
+Wutian 2 Zao Zijing 1 XY 11 Mifan 2
+Liutianji 1 Zao Taoli 2 AFI 561 mantou 2 
+Wutian 2 Zao Zijing 1 BC 12 Mifan 2
+Chenyanan 1 Zao Zijing 1 ABD 123 Mifan 3
+Liutianji 1 Zhong Yushu 3 LMN 112 Mifan 2
+Liangyajian 2 Zhong Dingxiang 4 PQR 211 Mifan 2
+Mujiandong 1 Zhong Zijing 1 CD 11 Mifan 2
+Wangkuangyu 2 Zhong Zhilan 5 BCY 321 Mifan 2
+Longzheng 1 Wan Taoli 2 IK 11 Mifan 2
+Wangtian 2 Wan Yushu 3 ABL 121 Mifan 2
+Liuhong 1 Wan Dingxiang 4 OP 11 Mifan 2
+Guojiaxing 1 Wan Zijing 1 E 1 Mifan 2
+Chenyanan 1 Wan Dingxiang 4 QR 21 Mifan 2
+Liutianji 1 Zao Zijing 1 ABC 121 Mifan 2 
+Liutianji 1 Zhong Zijing 1 AB 12 Mifan 2 
+Liangyajian 4 Zao Zijing 1 ABC 517 Mifan 2 
