@@ -1,7 +1,5 @@
 # Dietary-consumption-system-of-campus
 
---The file should be compressed to "D" disk and has a path like "D://**".
-
 By using elements like arrays, struct and linked list and some algorithms, We can do some interesting work.
 
 With the help of this system, students can be informed of the selling items in canteens and choose things they'd like to buy.
